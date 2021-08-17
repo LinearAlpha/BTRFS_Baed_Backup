@@ -2,3 +2,4 @@
 build
 .vscode
 __pycache__
+btrfs_auto_snap_delete
